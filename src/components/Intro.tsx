@@ -11,7 +11,6 @@ const Intro: React.FC = () => {
       <div>
         <h1 className={fontPoppins}>Jaziel Rodriguez</h1>
         <p className={fontPoppins}>
-          A{" "}
           <span>
             <Typewriter
               words={typewriterWords}
@@ -20,7 +19,6 @@ const Intro: React.FC = () => {
               cursorStyle="|"
             />
           </span>
-          developer
         </p>
       </div>
       <div className={styles["intro-img"]}>

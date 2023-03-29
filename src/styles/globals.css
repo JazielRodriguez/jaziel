@@ -34,7 +34,8 @@ p,
 a,
 label,
 input,
-button {
+button,
+li {
   font-size: 1.8rem;
   color: var(--primary);
 }
