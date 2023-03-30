@@ -15,6 +15,12 @@
 .intro-img img {
   border-radius: 50%;
 }
+.arrow-indicator {
+  position: absolute;
+  transform: translateX(-50%);
+  left: 50%;
+  bottom: 10vh;
+}
 @media screen and (max-width: 768px) {
   .intro {
     flex-direction: column;

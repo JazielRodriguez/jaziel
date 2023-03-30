@@ -4,7 +4,9 @@ import HomeImage from "../images/dev-cat.png";
 import styles from "../styles/Home.module.css";
 import { fontPoppins } from "@/utils/font";
 import { Typewriter } from "react-simple-typewriter";
+import { AiOutlineArrowDown } from "react-icons/ai";
 import { typewriterWords } from "@/utils/typewriterWords";
+import { IconContext } from "react-icons";
 const Intro: React.FC = () => {
   return (
     <main className={styles.intro}>
@@ -24,6 +26,11 @@ const Intro: React.FC = () => {
       <div className={styles["intro-img"]}>
         <Image src={HomeImage} alt="Jaziel Rodriguez - Cat Developer" fill />
       </div>
+      <IconContext.Provider value={{ size: "4rem",color:'#023b5e' }}>
+        <div className={styles["arrow-indicator"]}>
+          <AiOutlineArrowDown />
+        </div>
+      </IconContext.Provider>
     </main>
   );
 };
