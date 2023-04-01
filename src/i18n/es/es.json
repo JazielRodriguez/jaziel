@@ -1,0 +1,19 @@
+{
+  "translations": {
+    "aboutMe": "Acerca de mi...",
+    "aboutMeDesc": "Que tal, Soy Jaziel un desarrollador frontend enfocado en crear asombrosas interfaces de usuario, animaciones increíbles y software de gran calidad.",
+    "experience": "Experiencia...",
+    "experienceOneTitle": "IT Tech-Group (Remoto):",
+    "experienceOneDesc": "- Pasantía como desarrollador frontend creando multiples proyectos con React, usando GIT para versionar el software asi como las distintas estancias de trabajo entre los miembros del equipo.",
+    "comingSoon": "Trabajando en más",
+    "changeLanguage": "Cambiar idioma",
+    "typewriterWords": [
+      "Desarrollador TypeScript",
+      "Desarrollador React",
+      "Desarrollador de software",
+      "Desarrollador Junior",
+      "Un apasionado",
+      "Estudiante"
+    ]
+  }
+}

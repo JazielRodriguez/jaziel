@@ -1,0 +1,12 @@
+
+{
+  "translations": {
+    "aboutMe": "About me...",
+    "aboutMeDesc": "Hi, I'm Jaziel, a frontend developer focused on creating amazing user interfaces, awesome animations, and high-quality software.",
+    "experience": "Experience...",
+    "experienceOneTitle": "IT Tech-Group (Remote):",
+    "experienceOneDesc": "- Internship as a frontend developer creating multiple projects with React, using GIT to version the software as well as the different work stays between the team members.",
+    "comingSoon": "Coming Soon",
+    "changeLanguage":"Change language"
+  }
+}

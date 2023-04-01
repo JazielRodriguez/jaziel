@@ -1,8 +1,8 @@
 export const typewriterWords = [
-  "Desarrollador TypeScript",
-  "Desarrollador React",
-  "Desarrollador de software",
-  "Desarrollador Junior",
-  "Un apasionado",
-  "Estudiante",
+  "TypeScript developer",
+  "React developer",
+  "Software developer",
+  "Junior developer",
+  "A passionate",
+  "Student",
 ];

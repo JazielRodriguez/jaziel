@@ -1,0 +1,16 @@
+.btn {
+  position: absolute;
+  padding: 1rem;
+  border: none;
+  background-color: transparent;
+  color: var(--primary);
+  border: 0.2rem dashed var(--primary);
+  top: 2rem;
+  left: 2rem;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+.btn:hover {
+  color: #fff;
+  border: 0.2rem dashed #fff;
+}

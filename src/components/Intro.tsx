@@ -7,7 +7,10 @@ import { Typewriter } from "react-simple-typewriter";
 import { AiOutlineArrowDown } from "react-icons/ai";
 import { typewriterWords } from "@/utils/typewriterWords";
 import { IconContext } from "react-icons";
+import i18n from "@/i18n";
 const Intro: React.FC = () => {
+  const lng = i18n.language;
+
   return (
     <main className={styles.intro}>
       <div>
@@ -26,7 +29,7 @@ const Intro: React.FC = () => {
       <div className={styles["intro-img"]}>
         <Image src={HomeImage} alt="Jaziel Rodriguez - Cat Developer" fill />
       </div>
-      <IconContext.Provider value={{ size: "4rem",color:'#023b5e' }}>
+      <IconContext.Provider value={{ size: "4rem", color: "#023b5e" }}>
         <div className={styles["arrow-indicator"]}>
           <AiOutlineArrowDown />
         </div>
