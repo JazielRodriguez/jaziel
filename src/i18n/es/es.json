@@ -14,6 +14,10 @@
       "Desarrollador Junior",
       "Un apasionado",
       "Estudiante"
-    ]
+    ],
+    "goalListApp": "Esta es una aplicación móvil",
+    "goalListAppDesc": "Una aplicación para crear, almacenar y eliminar una lista de diferentes metas",
+    "tryGoalListApp": "Quieres probarla?",
+    "downloadGoalListApp":"Descargarla aquí"
   }
 }
